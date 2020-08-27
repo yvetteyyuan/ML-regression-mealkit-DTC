@@ -10,7 +10,7 @@ This project involved developing a predictive model and predict how much revenue
 
 <a href="https://github.com/yvetteyyuan/ML-regression-mealkit-DTC/blob/master/Yi%20Yuan%20A1_Write_Up.pdf">Yi Yuan A1_Write_Up.pdf</a> : Contains the data-driven insights based on the business problem.
 
-<a href="https://github.com/yvetteyyuan/ML-regression-mealkit-DTC/blob/master/Apprentice_Chef_Dataset.xlsx</a> : Contains the data provided by the data science team.
+<a href="https://github.com/yvetteyyuan/ML-regression-mealkit-DTC/blob/master/Apprentice_Chef_Dataset.xlsx">Apprentice_Chef_Dataset.xlsx</a> : Contains the data provided by the data science team.
 
 <a href="https://github.com/yvetteyyuan/ML-regression-mealkit-DTC/blob/master/Apprentice_Chef_Data_Dictionary.xlsx">Apprentice_Chef_Data_Dictionary.xlsx</a> : Metadata of each feature found in the dataset.
 
